@@ -1,4 +1,4 @@
-FROM ubuntu/ubuntu:19.10
+FROM ubuntu:19.10
 
 # Buildroot version to use
 ARG BUILD_ROOT_RELEASE=2018.02
