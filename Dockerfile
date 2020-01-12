@@ -1,4 +1,4 @@
-FROM rastasheep/ubuntu-sshd:18.04
+FROM ubuntu/ubuntu:19.10
 
 # Buildroot version to use
 ARG BUILD_ROOT_RELEASE=2018.02
